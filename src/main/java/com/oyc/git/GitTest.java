@@ -7,6 +7,7 @@ public class GitTest {
 
         System.out.println("fix-hot");
         System.out.println("master");
+        System.out.println("master提交github");
 
     }
 }
