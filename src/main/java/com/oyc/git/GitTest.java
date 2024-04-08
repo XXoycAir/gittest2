@@ -8,5 +8,6 @@ public class GitTest {
 
         System.out.println("nihao");
         System.out.println("nihao,git3");
+        System.out.println("我是fix-out");
     }
 }
