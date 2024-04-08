@@ -10,7 +10,5 @@ public class GitTest {
         System.out.println("nihao,git3");
         System.out.println("我是fix-out");
 
-        System.out.println("11111");
-        System.out.println("33333");
     }
 }
